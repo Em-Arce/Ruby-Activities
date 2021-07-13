@@ -9,7 +9,7 @@ end
 
 #test
 year_to_century(0)
-year_to_century(-1900)
+year_to_century(-2020)
 year_to_century(1705)
 year_to_century(1900)
 year_to_century(1601)
